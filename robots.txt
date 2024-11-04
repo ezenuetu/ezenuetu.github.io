@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezenuetu.github.io/PjG/sitemap_index.txt
+Sitemap: https://ezenuetu.github.io/QRy/sitemap_index.txt
+Sitemap: https://ezenuetu.github.io/dsF/sitemap_index.txt
+Sitemap: https://ezenuetu.github.io/wte/sitemap_index.txt
